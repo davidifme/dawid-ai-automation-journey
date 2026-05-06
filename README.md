@@ -5,7 +5,7 @@
 ## 📚 Postęp w Nauce
 
 ### Ukończone kursy
-- [x] n8n Level 1 – Badge
+- [ ] n8n Level 1 – Badge
 - [ ] AI Automation: Build LLM Apps & AI-Agents with n8n & APIs (Udemy)
 - [ ] Python Essentials 2 – PCAP (Edube)
 
@@ -16,7 +16,7 @@
 
 ## 📁 Struktura Repo
 
-- `projects/` – wszystkie Immortal Case Studies
+- `projects/` – wszystkie projekty
 - `automations/` – workflowy n8n
 - `metrics/` – dane i recenzje tygodniowe
 - `code/` – wspólne skrypty Python
