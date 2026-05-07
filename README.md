@@ -5,7 +5,7 @@
 ## 📚 Postęp w Nauce
 
 ### Ukończone kursy
-- [ ] n8n Level 1 – Badge
+- [x] n8n Level 1 – Badge
 - [ ] AI Automation: Build LLM Apps & AI-Agents with n8n & APIs (Udemy)
 - [ ] Python Essentials 2 – PCAP (Edube)
 
